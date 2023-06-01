@@ -4,5 +4,5 @@ checksum_dict>=1.1.1
 dank_mids>=4.20.36,!=4.20.38
 eth-brownie>=1.18.1,<1.20
 eth_retry>=0.1.17,<0.2
-ez-a-sync>=0.1.7
+git+https://www.github.com/crebsy/ez-a-sync@0603f2ef0d4ea326a01386117e48a14968cb5dbd
 joblib>=1.0.1
